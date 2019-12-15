@@ -1,0 +1,6 @@
+Class Test{ 
+Public static void main(String[]args);
+{
+System. Out. Println("hello") ;
+} 
+}
